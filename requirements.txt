@@ -1,0 +1,8 @@
+streamlit==1.26.0
+googletrans==4.0.0-rc1
+gTTS==2.3.2
+pydub==0.25.1
+pyaudio==0.2.13
+SpeechRecognition==3.8.1
+uuid==1.30
+numpy==1.26.2
